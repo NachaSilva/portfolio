@@ -39,6 +39,8 @@ a {
   font-weight: normal;
   text-decoration: none !important;
   transition: all 0.4s ease;
+  color:#103666;
+  font-weight: 600;
 }
 a:hover {
   color: #ffc200 !important;
